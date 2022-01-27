@@ -11,12 +11,12 @@
 
 header {
   height: 100px;
-  background-color: pink;
+  background-color: violet;
 }
 
 .yellow {
   height: 400px;
-  background-color: yellow;
+  background-color: rgb(196, 196, 24);
 }
 
 .blue {
@@ -36,7 +36,7 @@ header {
   float: left;
   height: 400px;
   width: 60%;
-  background-color: red;
+  background-color: lightblue;
   margin: 0 4% 20px;
 }
 
@@ -57,5 +57,5 @@ header {
 
 footer {
   height: 50px;
-  background-color: violet;
+  background-color: rgb(125, 23, 184);
 }
